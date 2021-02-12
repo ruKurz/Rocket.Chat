@@ -9,6 +9,7 @@
 [![Coverage Status](https://coveralls.io/repos/RocketChat/Rocket.Chat/badge.svg)](https://coveralls.io/r/RocketChat/Rocket.Chat)
 [![Code Climate](https://codeclimate.com/github/RocketChat/Rocket.Chat/badges/gpa.svg)](https://codeclimate.com/github/RocketChat/Rocket.Chat)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/RocketChat/Rocket.Chat/raw/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FruKurz%2FRocket.Chat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FruKurz%2FRocket.Chat?ref=badge_shield)
 
 
 * [Live Demo](#live-demo)
@@ -56,6 +57,9 @@
 * [Credits](#credits)
 * [Donate](#donate)
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FruKurz%2FRocket.Chat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FruKurz%2FRocket.Chat?ref=badge_large)
 
 # Live Demo
 Checkout the latest version at [https://demo.rocket.chat](https://demo.rocket.chat)
